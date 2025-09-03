@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 61317571}
   - component: {fileID: 61317570}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: UI Manager/Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 213619726}
   - component: {fileID: 213619725}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -310,7 +310,7 @@ GameObject:
   - component: {fileID: 323137075}
   - component: {fileID: 323137074}
   m_Layer: 5
-  m_Name: Button
+  m_Name: StarGameButtom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

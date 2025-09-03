@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 648468656}
   - component: {fileID: 648468655}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -284,7 +284,7 @@ GameObject:
   - component: {fileID: 882801848}
   - component: {fileID: 882801847}
   m_Layer: 4
-  m_Name: Circle
+  m_Name: Rocky
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -510,7 +510,7 @@ GameObject:
   - component: {fileID: 1926022912}
   - component: {fileID: 1926022911}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: UI Manager/Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
