@@ -24,4 +24,12 @@ public class KitchenManager : MonoBehaviour
         Player.SetActive(false);
     }
 
+    public void BuyItem()
+    {
+    }
+
+    public void ShutDown()
+    {
+    }
+
 }
